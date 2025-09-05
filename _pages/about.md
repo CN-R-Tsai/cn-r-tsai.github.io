@@ -26,10 +26,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ## 👋 Hey there! 
-Hi, I'm **Chung-Nan Tsai**, a **Software Engineer** and **Data Scientist** based at Lam Research in Yokkaichi, Japan's vibrant Chubu region. With over a decade in engineering, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, and <u>Customer Technical Support</u>.  
 
+Hi, I'm **Chung-Nan Tsai**, a **Software Engineer** and **Data Scientist** at Lam Research in Yokkaichi, Japan’s dynamic Chubu region. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
 
-Passionate about bridging engineering and AI, I focus on creating innovative solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry.  
+I’m passionate about transforming complex engineering challenges into practical, data-driven solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry.  
+
+In parallel, I contribute to advancing **multi-agent LLM frameworks and applications** (e.g., code vulnerability detection), with publications in **leading conferences and journals**. This dual focus enables me to connect hands-on engineering with cutting-edge AI research.  
 
 ---
 
