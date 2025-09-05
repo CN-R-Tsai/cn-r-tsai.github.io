@@ -26,11 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ## 👋 Hey there! 
-Hi, I'm **Chung-Nan Tsai**, a **Software Engineer** and **Data Scientist** based at Lam Research in Yokkaichi, Japan's vibrant Chubu region. With over a decade in engineering, I've built a solid foundation across **Semiconductor Processing, Machine Learning, Smart Manufacturing, Data Analytics, Web Application Development, and Customer Technical Support.**
+Hi, I'm **Chung-Nan Tsai**, a **Software Engineer** and **Data Scientist** based at Lam Research in Yokkaichi, Japan's vibrant Chubu region. With over a decade in engineering, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, and <u>Customer Technical Support</u>.  
+
+
+Passionate about bridging engineering and AI, I focus on creating innovative solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry.  
 
 ---
 
-In my current role as an internal **Digital Transformation (DX) advocate**, I have the exciting opportunity to champion and drive global initiatives. I collaborate with teams across the **APAC region**, including Japan, China, and Taiwan, to revolutionize field customer service operations. My primary focus is on enabling smarter business processes, boosting productivity, and maximizing operational efficiency. I achieve this by introducing innovative **automation AI systems** that facilitate seamless teamwork, directly leading to **significant reductions in company-wide working hours and costs.**
+In my current role as an internal **Digital Transformation (DX) advocate**, I have the exciting opportunity to champion and drive global initiatives. I collaborate with teams across the APAC region, including Japan, China, and Taiwan, to revolutionize field customer service operations. My primary focus is on enabling smarter business processes, boosting productivity, and maximizing operational efficiency. I achieve this by introducing innovative **automation AI systems** that facilitate seamless teamwork, directly leading to **significant reductions in company-wide working hours and costs.**
 
 Beyond internal operations, I'm actively driving new business opportunities in Japan's resurgent semiconductor industry. Leveraging Lam's advanced equipment intelligence AI solutions, I'm **securing substantial new contracts** with considerable potential for future business growth. My focus here is on enabling key customers like Kioxia, Sony, JASM, and Rapidus to accelerate smart manufacturing adoption and enhance their competitiveness.
 
