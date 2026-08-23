@@ -27,11 +27,13 @@ latest_posts:
 ---
 ## 👋 Hey there! 
 
-Hi, I'm **Chung-Nan Tsai**, a **Product Support Engineer** at Lam Research, based in Boise, Idaho. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
+Hi, I'm **Chung-Nan Tsai**, a **Product Support Engineer** at Lam Research, based in Boise, Idaho. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Hardware Systems</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
 
-I’m passionate about transforming complex engineering challenges into practical, data-driven solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry.  
+In my current role on Lam Research's North America Product Support team, I serve as the **highest-level escalation authority** for Lam's advanced conductor etch systems, partnering closely with R&D and design engineering to resolve critical line-stop issues and maintain **>95% tool availability** for advanced node development. I combine deep-dive analysis of sensor and log data with hands-on hardware troubleshooting to drive **root-cause failure analysis** and hardware design improvements that **reduced recurring component failures by 35%**, achieving a **90%+ first-time resolution rate** on complex electromechanical issues.
 
-In parallel, I contribute to advancing 🤖 **multi-agent LLM frameworks and applications** (e.g., code vulnerability detection), with publications in leading conferences and journals. This dual focus enables me to connect hands-on engineering with cutting-edge AI research.  
+I’m passionate about transforming complex engineering challenges into practical, data-driven solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry. My background spans the full stack of what it takes to keep advanced manufacturing equipment running—**software, hardware, data, and process engineering**—giving me a cross-functional perspective on solving problems from the code to the chamber.
+
+In parallel, I'm an active researcher in 🤖 **multi-agent LLM systems**, with publications in top-tier conferences and journals spanning code vulnerability detection, time series forecasting, and AI-driven diagnostics. This dual focus enables me to connect hands-on engineering with cutting-edge AI research.  
 
 ---
 
@@ -46,6 +48,9 @@ I'm particularly passionate about leveraging **AI and machine learning** to deve
 Fluent in **English, Japanese, and Chinese**—with beginner proficiency in Korean—I bring a rich international perspective shaped by extensive global experience. I'm authorized to work in both Japan and Taiwan, ready to contribute across diverse cultural and professional environments.
 
 ---
+
+現在は、Lam ResearchのNorth America Product Supportチームにおいて、コンダクタエッチ装置における最上位のエスカレーション対応窓口を務めています。R&D部門や設計エンジニアリングチームと密接に連携しながら、最先端ノード開発におけるライン停止などの重大な問題を解決し、装置稼働率の維持に貢献しています。センサーおよびログデータの詳細な分析とハンズオンでのハードウェアトラブルシューティングを組み合わせることで、根本原因分析とハードウェア設計の改善を推進し、複雑な電気機械的トラブルに対して高い初回解決率を実現しています。これまでの経歴を通じて、ソフトウェア開発、ハードウェアトラブルシューティング、データサイエンス、プロセスエンジニアリングにわたる幅広い専門性を培ってきました。
+<br>
 
 かつて日本にて、社内デジタルトランスフォーメーション（DX）推進者として、グローバルな変革を牽引していました。特に、APAC地域（日本、中国、台湾を含む）の各チームと密接に連携し、フィールドカスタマーサービス業務の抜本的な改革に取り組みました。主要なミッションは、革新的な自動化AIシステムを導入することで、よりスマートなビジネスプロセスを実現し、生産性を飛躍的に向上させ、業務効率を最大限に高めることでした。この取り組みは単なる効率化に留まらず、シームレスなチームワークを促進し、全社的な労働時間とコストの大幅な削減に直接貢献し、企業の持続的な成長を支えました。
 <br>
