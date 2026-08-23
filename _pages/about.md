@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i class="fas fa-building"></i> Lam Research G.K. <i class="fas fa-map-marker-alt"></i> Yokkaichi, Mie Prefecture, Japan 🇯🇵
+subtitle: <i class="fas fa-building"></i> Lam Research <i class="fas fa-map-marker-alt"></i> Boise, Idaho, USA 🇺🇸
 
 
 profile:
@@ -27,7 +27,7 @@ latest_posts:
 ---
 ## 👋 Hey there! 
 
-Hi, I'm **Chung-Nan Tsai**, a **Data Scientist** and **Software Engineer** at Lam Research in Yokkaichi, Japan’s dynamic Chubu region. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
+Hi, I'm **Chung-Nan Tsai**, a **Product Support Engineer** at Lam Research, based in Boise, Idaho. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
 
 I’m passionate about transforming complex engineering challenges into practical, data-driven solutions that drive efficiency, reliability, and digital transformation in the semiconductor industry.  
 
@@ -35,9 +35,9 @@ In parallel, I contribute to advancing 🤖 **multi-agent LLM frameworks and app
 
 ---
 
-In my current role as an internal **Digital Transformation (DX) advocate**, I have the exciting opportunity to champion and drive global initiatives. I collaborate with teams across the APAC region, including Japan, China, and Taiwan, to revolutionize field customer service operations. My primary focus is on enabling smarter business processes, boosting productivity, and maximizing operational efficiency. I achieve this by introducing innovative **automation AI systems** that facilitate seamless teamwork, directly leading to **significant reductions in company-wide working hours and costs.**
+Previously, based in Japan, I served as an internal **Digital Transformation (DX) advocate**, where I had the exciting opportunity to champion and drive global initiatives. I collaborated with teams across the APAC region, including Japan, China, and Taiwan, to revolutionize field customer service operations. My primary focus was on enabling smarter business processes, boosting productivity, and maximizing operational efficiency, which I achieved by introducing innovative **automation AI systems** that facilitated seamless teamwork, directly leading to **significant reductions in company-wide working hours and costs.**
 
-Beyond internal operations, I'm actively driving new business opportunities in Japan's resurgent semiconductor industry. Leveraging Lam's advanced equipment intelligence AI solutions, I'm **securing substantial new contracts** with considerable potential for future business growth. My focus here is on enabling key customers like Kioxia, Sony, JASM, and Rapidus to accelerate smart manufacturing adoption and enhance their competitiveness.
+Beyond internal operations, I also drove new business opportunities in Japan's resurgent semiconductor industry. Leveraging Lam's advanced equipment intelligence AI solutions, I **secured substantial new contracts** with considerable potential for future business growth, enabling key customers like Kioxia, Sony, JASM, and Rapidus to accelerate smart manufacturing adoption and enhance their competitiveness.
 
 ---
 
@@ -47,7 +47,7 @@ Fluent in **English, Japanese, and Chinese**—with beginner proficiency in Kore
 
 ---
 
-社内デジタルトランスフォーメーション（DX）推進者として、グローバルな変革を牽引しています。特に、APAC地域（日本、中国、台湾を含む）の各チームと密接に連携し、フィールドカスタマーサービス業務の抜本的な改革に取り組んでいます。私の主要なミッションは、革新的な自動化AIシステムを導入することで、よりスマートなビジネスプロセスを実現し、生産性を飛躍的に向上させ、業務効率を最大限に高めることです。この取り組みは単なる効率化に留まらず、シームレスなチームワークを促進し、全社的な労働時間とコストの大幅な削減に直接貢献することで、企業の持続的な成長を支えています。
+かつて日本にて、社内デジタルトランスフォーメーション（DX）推進者として、グローバルな変革を牽引していました。特に、APAC地域（日本、中国、台湾を含む）の各チームと密接に連携し、フィールドカスタマーサービス業務の抜本的な改革に取り組みました。主要なミッションは、革新的な自動化AIシステムを導入することで、よりスマートなビジネスプロセスを実現し、生産性を飛躍的に向上させ、業務効率を最大限に高めることでした。この取り組みは単なる効率化に留まらず、シームレスなチームワークを促進し、全社的な労働時間とコストの大幅な削減に直接貢献し、企業の持続的な成長を支えました。
 <br>
 
 ##### **お客様向け技術サポートの強化と課題解決への貢献**
