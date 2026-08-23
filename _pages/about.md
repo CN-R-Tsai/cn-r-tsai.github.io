@@ -43,9 +43,9 @@ Beyond internal operations, I also drove new business opportunities in Japan's r
 
 ---
 
-I'm particularly passionate about leveraging **AI and machine learning** to develop innovative solutions, crafting web applications that truly transform how people work and live. This drive also fuels my approach as an **innovative team leader** with a sharp sense of business priorities. I'm motivated by transforming fast-evolving business goals into tangible, revenue-generating outcomes.
+Beyond the technical work, I bring an **innovative team leader** mindset with a sharp sense of business priorities, driven to turn fast-evolving business goals into tangible, revenue-generating outcomes.
 
-Fluent in **English, Japanese, and Chinese**—with beginner proficiency in Korean—I bring a rich international perspective shaped by extensive global experience. I'm authorized to work in both Japan and Taiwan, ready to contribute across diverse cultural and professional environments.
+Fluent in **English, Japanese, and Chinese**—with beginner proficiency in Korean—I offer a rich international perspective shaped by extensive global experience. I'm authorized to work in both Japan and Taiwan, ready to contribute across diverse cultural and professional environments.
 
 ---
 
