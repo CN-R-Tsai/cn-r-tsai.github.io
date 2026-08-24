@@ -27,9 +27,9 @@ latest_posts:
 ---
 ## 👋 Hey there! 
 
-Hi, I'm **Chung-Nan Tsai**, a **Product Support Engineer** at Lam Research, based in Boise, Idaho. With over a decade of experience, I’ve built expertise spanning <u>Semiconductor Processing</u>, <u>Hardware Systems</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, <u>Web Application Development</u>, <u>Customer Technical Support</u>, and <u>AI/LLM applications</u>.  
+Hi, I'm **Chung-Nan Tsai**, a **Product Support Engineer** at Lam Research, based in Boise, Idaho. With over a decade of experience, I’ve built expertise spanning <u>Customer Technical Support</u>, <u>AI/LLM applications</u>, <u>Semiconductor Processing</u>, <u>Hardware Systems</u>, <u>Machine Learning</u>, <u>Smart Manufacturing</u>, <u>Data Analytics</u>, and <u>Web Application Development</u>.  
 
-In my current role on Lam Research's North America Product Support team, I serve as the highest-level escalation authority, partnering closely with R&D and engineering teams to resolve critical, high-stakes technical issues and keep customer operations running at **>90% availability**. I combine deep-dive data analysis with hands-on technical troubleshooting to drive **root-cause analysis** and process improvements that **reduced recurring failures by 35%**, achieving a **90%+ first-time resolution rate** on complex technical issues.
+In my current role on Lam Research's North America Product Support team, I serve as the highest-level escalation point for critical, customer-facing production issues—partnering directly with engineering teams to diagnose root causes, ship fixes, and keep systems running at **>90% availability**. By combining deep data analysis with hands-on troubleshooting, I've driven systemic improvements that **reduced recurring failures by 35%** and achieved a **90%+ first-time resolution rate**, closing the loop between customer pain points and product improvements.
 
 I’m passionate about transforming complex technical challenges into practical, data-driven solutions that drive efficiency and reliability. My background spans the full stack of what it takes to keep mission-critical systems running—**software, data, and hands-on technical problem-solving**—giving me a cross-functional perspective on solving problems end-to-end, from the code to the customer.
 
